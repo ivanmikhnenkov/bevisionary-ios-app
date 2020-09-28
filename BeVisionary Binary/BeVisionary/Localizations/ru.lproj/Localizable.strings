@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  BeVisionary
+
+  Created by Ivan Mikhnenkov on 02.06.2018.
+  Copyright © 2018 Ivan Mikhnenkov. All rights reserved.
+*/
+
+// MARK: -BeVisionary Interface Titles
+
+/* BeVisionary Interface Titles */
+"GoalsInterfaceTitle" = "Цели";
+"ImpressionsInterfaceTitle" = "Впечатления";
+"ChronicleInterfaceTitle" = "Хроника";
+
+
+// MARK: - Goals Interface
+
+"Goals; defaultThemeName" = "Общие Впечатления";
+
+/* Goals; AllGoalsTableViewController */
+"AllGoalsTVC; backButtonTitle" = "Отмена";
+"AllGoalsTVC; navigationItemTitle" = "Ваши цели";
+"AllGoalsTVC; editButtonTitleStandard" = "Редактировать";
+"AllGoalsTVC; editButtonTitleWhenEditing" = "Готово";
+
+/* Goals; GoalsEditingOptionsViewController */
+"GoalEditingOptionsVC; headerLabelText" = "Редактировать цель";
+"GoalEditingOptionsVC; nameAndColorEditingButtonTitle" = "Название и цвет";
+"GoalEditingOptionsVC; timePeriodEditingButtonTitle" = "Временной период";
+"GoalEditingOptionsVC; cancelButtonTitle" = "Отмена";
+
+/* Goals; GoalNameAndColorSettingViewController */
+"GoalNameAndColorSettingVC; goalNameTextfieldPlaceholder" = "Введите название цели...";
+"GoalNameAndColorSettingVC; changeGoalColorButtonTitle" = "Коснитесь, чтобы изменить цвет";
+"GoalNameAndColorSettingVC; cancelButtonTitle" = "Отмена";
+"GoalNameAndColorSettingVC; setButtonTitleGoalCreationCase" = "Создать!";
+"GoalNameAndColorSettingVC; setButtonTitleGoalEditingCase" = "Сохранить";
+
+/* Goals; OfferSubscriptionViewController */
+"OfferSubscriptionVC; perMonthText" = "/месяц";
+"OfferSubscriptionVC; subscriptionButtonTitleFreeTrial" = "бесплатный пробный месяц!";
+"OfferSubscriptionVC; thenWord" = "Затем ";
+"OfferSubscriptionVC; subscriprionButtonTitleNoProductFound" = "Продукт не найден";
+"OfferSubscriptionVC; restoreButtonTitle" = "Восстановить подписку";
+"OfferSubscriptionVC; subscriptionTermsText" = "Подписка открывает для вас интерфейс «Цели» и позволяет ему взаимодействовать с другими интерфейсами, что полностью раскрывает оригинальную концепцию BeVisionary!\nОплата происходит через ваш аккаунт iTunes после подтверждения покупки. Следующий платеж будет списан с вашего аккаунта iTunes после обновления подписки, если вы не отключите автообновление хотя бы за 24 часа до окончания текущего периода действия. Вы можете отключить автоматическое обновления в пользовательских настройках аккаунта в любое время после покупки.";
+"OfferSubscriptionVC; privacyPolicyTitle" = "Политика конфиденциальности";
+"OfferSubscriptionVC; termsOfUseTitle" = "Условия использования";
+
+// MARK: - IAPHandler
+
+/* IAPHandler; AlertNotifications */
+"IAPHandler; noInternetConnection" = "Пожалуйста, проверьте подключение к Интернету и повторите попытку";
+"IAPHandler; cannotStartTransactionTitle" = "Не получается начать транзакцию";
+"IAPHandler; noProductFoundNoInternetMessage" = "Информация о продукте не найдена. Пожалуйста, проверьте подключение к Интернету и повторите попытку";
+"IAPHandler; noProductFoundWithInternetMessage" = "Информация о продукте не найдена. BeVisionary пытается решить эту проблему...";
+"IAPHandler; userCannotMakePurchase" = "Вы не можете совершать покупки";
+"IAPHandler; subscriptionWasRestored" = "Подписка была успешна восстановлена!";
+"IAPHandler; subscriptionWasNotRestoredTitle" = "Подписка не восстановлена";
+"IAPHandler; noValidSubscriptionToRestoreMessage" = "У Вас нет действующей подписки";
+"IAPHandler; unknownErrorWhenRestoringSubscriptionMessage" = "Извините, не удается восстановить подписку. Пожалуйста, попробуйте позже";
+
+// MARK: - Chronicle Interface
+
+/* ChronicleViewController */
+"ChronicleVC; commentButtonTitle" = "комментировать";
+"ChronicleVC; noPagesSavedNotification" = "У Вас нет сохраненных страниц!\nПросто напишите сегодняшние впечатления и проверьте Хронику завтра!";
+
+/* ChronicleViewController; CommentPageViewController */
+"CommentPageVC; cancelButtonTitle" = "Отмена";
+"CommentPageVC; saveCommentButtonTitle" = "Сохранить";
+

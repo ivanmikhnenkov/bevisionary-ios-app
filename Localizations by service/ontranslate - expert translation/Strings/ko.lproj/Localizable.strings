@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  BeVisionary
+
+  Created by Ivan Mikhnenkov on 02.06.2018.
+  Copyright © 2018 Ivan Mikhnenkov. All rights reserved.
+*/
+
+// MARK: -BeVisionary Interface Titles
+
+/* BeVisionary Interface Titles */
+"GoalsInterfaceTitle" = "목표";
+"ImpressionsInterfaceTitle" = "느낌";
+"ChronicleInterfaceTitle" = "기록";
+
+
+// MARK: - Goals Interface
+
+"Goals; defaultThemeName" = "일반적인 느낌";
+
+/* Goals; AllGoalsTableViewController */
+"AllGoalsTVC; backButtonTitle" = "취소";
+"AllGoalsTVC; navigationItemTitle" = "나의 목표";
+"AllGoalsTVC; editButtonTitleStandard" = "편집";
+"AllGoalsTVC; editButtonTitleWhenEditing" = "완료";
+
+/* Goals; GoalsEditingOptionsViewController */
+"GoalEditingOptionsVC; headerLabelText" = "목표 편집";
+"GoalEditingOptionsVC; nameAndColorEditingButtonTitle" = "이름 및 색상";
+"GoalEditingOptionsVC; timePeriodEditingButtonTitle" = "기간";
+"GoalEditingOptionsVC; cancelButtonTitle" = "취소";
+
+/* Goals; GoalNameAndColorSettingViewController */
+"GoalNameAndColorSettingVC; goalNameTextfieldPlaceholder" = "목표 이름을 입력하세요...";
+"GoalNameAndColorSettingVC; changeGoalColorButtonTitle" = "색상을 변경하려면 누르세요";
+"GoalNameAndColorSettingVC; cancelButtonTitle" = "취소";
+"GoalNameAndColorSettingVC; setButtonTitleGoalCreationCase" = "설정!";
+"GoalNameAndColorSettingVC; setButtonTitleGoalEditingCase" = "저장";
+
+/* Please, translate as "/month" if word itslef is short or there is no appropriate abbreviation */
+"OfferSubscriptionVC; perMonthText" = "/월";
+"OfferSubscriptionVC; subscriptionButtonTitleFreeTrial" = "무료 월간 평가판!";
+"OfferSubscriptionVC; subscriprionButtonTitleNoProductFound" = "상품을 찾을 수 없습니다";
+"OfferSubscriptionVC; restoreButtonTitle" = "서비스 복원";
+
+// MARK: - IAPHandler
+
+/* IAPHandler; AlertNotifications */
+"IAPHandler; noInternetConnection" = "인터넷 연결을 확인하고 다시 시도하세요";
+"IAPHandler; cannotStartTransactionTitle" = "거래를 시작할 수 없습니다";
+"IAPHandler; noProductFoundNoInternetMessage" = "상품 정보를 찾을 수 없습니다. 인터넷 연결을 확인하고 다시 시도하세요";
+"IAPHandler; noProductFoundWithInternetMessage" = "상품 정보를 찾을 수 없습니다. BeVisionary에서 이 문제를 해결하려는 중입니다...";
+"IAPHandler; userCannotMakePurchase" = "구매할 수 없습니다";
+"IAPHandler; subscriptionWasRestored" = "서비스가 성공적으로 복원되었습니다!";
+"IAPHandler; subscriptionWasNotRestoredTitle" = "서비스를 복원할 수 없습니다";
+"IAPHandler; noValidSubscriptionToRestoreMessage" = "유효한 서비스가 없습니다";
+"IAPHandler; unknownErrorWhenRestoringSubscriptionMessage" = "죄송합니다. 서비스를 복원할 수 없습니다. 나중에 시도하세요";
+
+// MARK: - Chronicle Interface
+
+/* ChronicleViewController */
+"ChronicleVC; commentButtonTitle" = "댓글";
+"ChronicleVC; noPagesSavedNotification" = "저장된 페이지가 없습니다!\n오늘 느낌을 작성하고 내일 기록을 확인하세요!";
+
+/* ChronicleViewController; CommentPageViewController */
+"CommentPageVC; cancelButtonTitle" = "취소";
+"CommentPageVC; saveCommentButtonTitle" = "저장";
+

@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  BeVisionary
+
+  Created by Ivan Mikhnenkov on 02.06.2018.
+  Copyright © 2018 Ivan Mikhnenkov. All rights reserved.
+*/
+
+// MARK: -BeVisionary Interface Titles
+
+/* BeVisionary Interface Titles */
+"GoalsInterfaceTitle" = "Objectifs";
+"ImpressionsInterfaceTitle" = "Impressions";
+"ChronicleInterfaceTitle" = "Chronique";
+
+
+// MARK: - Goals Interface
+
+"Goals; defaultThemeName" = "Impressions Générales";
+
+/* Goals; AllGoalsTableViewController */
+"AllGoalsTVC; backButtonTitle" = "Annuler";
+"AllGoalsTVC; navigationItemTitle" = "Vos objectifs";
+"AllGoalsTVC; editButtonTitleStandard" = "Modifier";
+"AllGoalsTVC; editButtonTitleWhenEditing" = "Terminé";
+
+/* Goals; GoalsEditingOptionsViewController */
+"GoalEditingOptionsVC; headerLabelText" = "Modifier l'objectif";
+"GoalEditingOptionsVC; nameAndColorEditingButtonTitle" = "Nom et couleur";
+"GoalEditingOptionsVC; timePeriodEditingButtonTitle" = "Période de temps";
+"GoalEditingOptionsVC; cancelButtonTitle" = "Annuler";
+
+/* Goals; GoalNameAndColorSettingViewController */
+"GoalNameAndColorSettingVC; goalNameTextfieldPlaceholder" = "Entrez le nom de l'objectif...";
+"GoalNameAndColorSettingVC; changeGoalColorButtonTitle" = "Touchez pour changer la couleur";
+"GoalNameAndColorSettingVC; cancelButtonTitle" = "Annuler";
+"GoalNameAndColorSettingVC; setButtonTitleGoalCreationCase" = "Fixer!";
+"GoalNameAndColorSettingVC; setButtonTitleGoalEditingCase" = "Enregistrer";
+
+/* Goals; OfferSubscriptionViewController */
+"OfferSubscriptionVC; perMonthText" = "/mois";
+"OfferSubscriptionVC; subscriptionButtonTitleFreeTrial" = "mois d'essai gratuit!";
+"OfferSubscriptionVC; thenWord" = "Puis ";
+"OfferSubscriptionVC; subscriprionButtonTitleNoProductFound" = "Produit non trouvé";
+"OfferSubscriptionVC; restoreButtonTitle" = "Restaurer l'abonnement";
+"OfferSubscriptionVC; subscriptionTermsText" = "L'abonnement vous permet d'utiliser l'interface Objectifs et de ressentir son influence sur les autres interfaces - fonctionnalité qui rend BeVisionary conception originale!\nVotre paiement sera débité de votre compte iTunes une fois que vous aurez confirmé votre achat. Votre compte iTunes sera débité à nouveau lors du renouvellement automatique de votre abonnement à la fin de votre période d'abonnement en cours, sauf si vous désactivez le renouvellement automatique au moins 24 heures avant la fin de la période en cours. Vous pouvez gérer ou désactiver le renouvellement automatique dans les Paramètres de votre compte Apple ID à tout moment après votre achat.";
+"OfferSubscriptionVC; privacyPolicyTitle" = "Politique de confidentialité";
+"OfferSubscriptionVC; termsOfUseTitle" = "Conditions d'utilisation";
+
+// MARK: - IAPHandler
+
+/* IAPHandler; AlertNotifications */
+"IAPHandler; noInternetConnection" = "S'il vous plaît, vérifiez votre connexion à internet et réessayez";
+"IAPHandler; cannotStartTransactionTitle" = "Impossible de démarrer une transaction";
+"IAPHandler; noProductFoundNoInternetMessage" = "Information sur le produit ne se trouve pas. S'il vous plaît, vérifiez votre connexion à internet et réessayez";
+"IAPHandler; noProductFoundWithInternetMessage" = "Information sur le produit ne se trouve pas. BeVisionary essaie de résoudre ce problème...";
+"IAPHandler; userCannotMakePurchase" = "Vous ne pouvez pas faire d'achats";
+"IAPHandler; subscriptionWasRestored" = "L'abonnement est restauré avec succès!";
+"IAPHandler; subscriptionWasNotRestoredTitle" = "L'abonnement n'est pas restauré";
+"IAPHandler; noValidSubscriptionToRestoreMessage" = "Vous n'avez pas d'abonnement valide";
+"IAPHandler; unknownErrorWhenRestoringSubscriptionMessage" = "Désolé, ne peut pas restaurer un abonnement. Veuillez réessayer plus tard";
+
+// MARK: - Chronicle Interface
+
+/* ChronicleViewController */
+"ChronicleVC; commentButtonTitle" = "commenter";
+"ChronicleVC; noPagesSavedNotification" = "Vous n'avez pas de pages enregistrées!\nEcrivez vos impressions d'aujourd'hui et vérifiez la Chronique demain!";
+
+/* ChronicleViewController; CommentPageViewController */
+"CommentPageVC; cancelButtonTitle" = "Annuler";
+"CommentPageVC; saveCommentButtonTitle" = "Enregistrer";
+

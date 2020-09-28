@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  BeVisionary
+
+  Created by Ivan Mikhnenkov on 02.06.2018.
+  Copyright © 2018 Ivan Mikhnenkov. All rights reserved.
+*/
+
+// MARK: -BeVisionary Interface Titles
+
+/* BeVisionary Interface Titles */
+"GoalsInterfaceTitle" = "目標";
+"ImpressionsInterfaceTitle" = "感想";
+"ChronicleInterfaceTitle" = "クロニクル";
+
+
+// MARK: - Goals Interface
+
+"Goals; defaultThemeName" = "一般的感想";
+
+/* Goals; AllGoalsTableViewController */
+"AllGoalsTVC; backButtonTitle" = "キャンセル";
+"AllGoalsTVC; navigationItemTitle" = "あなたの目標";
+"AllGoalsTVC; editButtonTitleStandard" = "編集";
+"AllGoalsTVC; editButtonTitleWhenEditing" = "完了";
+
+/* Goals; GoalsEditingOptionsViewController */
+"GoalEditingOptionsVC; headerLabelText" = "目標を編集";
+"GoalEditingOptionsVC; nameAndColorEditingButtonTitle" = "名前と色";
+"GoalEditingOptionsVC; timePeriodEditingButtonTitle" = "期間";
+"GoalEditingOptionsVC; cancelButtonTitle" = "キャンセル";
+
+/* Goals; GoalNameAndColorSettingViewController */
+"GoalNameAndColorSettingVC; goalNameTextfieldPlaceholder" = "目標の名前を入力してください...";
+"GoalNameAndColorSettingVC; changeGoalColorButtonTitle" = "タップして色を変更";
+"GoalNameAndColorSettingVC; cancelButtonTitle" = "キャンセル";
+"GoalNameAndColorSettingVC; setButtonTitleGoalCreationCase" = "設定!";
+"GoalNameAndColorSettingVC; setButtonTitleGoalEditingCase" = "保存";
+
+/* Please, translate as "/month" if word itslef is short or there is no appropriate abbreviation */
+"OfferSubscriptionVC; perMonthText" = "/月";
+"OfferSubscriptionVC; subscriptionButtonTitleFreeTrial" = "1ヶ月の無料トライアル!";
+"OfferSubscriptionVC; subscriprionButtonTitleNoProductFound" = "製品が見つかりませんでした";
+"OfferSubscriptionVC; restoreButtonTitle" = "サブスクリプションを復元";
+
+// MARK: - IAPHandler
+
+/* IAPHandler; AlertNotifications */
+"IAPHandler; noInternetConnection" = "インターネット接続を確認してもう一度やり直してください。";
+"IAPHandler; cannotStartTransactionTitle" = "処理を開始できません。";
+"IAPHandler; noProductFoundNoInternetMessage" = "製品情報が見つかりませんでした。インターネット接続を確認してもう一度やり直してください。";
+"IAPHandler; noProductFoundWithInternetMessage" = "製品情報が見つかりませんでした。 BeVisionaryはこの問題を解決しようとしています...";
+"IAPHandler; userCannotMakePurchase" = "購入できません。";
+"IAPHandler; subscriptionWasRestored" = "サブスクリプションの復元が成功しました!";
+"IAPHandler; subscriptionWasNotRestoredTitle" = "サブスクリプションが復元できませんでした。";
+"IAPHandler; noValidSubscriptionToRestoreMessage" = "あなたは有効なサブスクリプションを持っていません。";
+"IAPHandler; unknownErrorWhenRestoringSubscriptionMessage" = "申し訳ございません。サブスクリプションを復元できませんでした。もう一度やり直してください。";
+
+// MARK: - Chronicle Interface
+
+/* ChronicleViewController */
+"ChronicleVC; commentButtonTitle" = "コメントする";
+"ChronicleVC; noPagesSavedNotification" = "ページを保存していません！さあ今日の感想を書いて、明日クロニクルをチェックしましょう!";
+
+/* ChronicleViewController; CommentPageViewController */
+"CommentPageVC; cancelButtonTitle" = "キャンセル";
+"CommentPageVC; saveCommentButtonTitle" = "保存";
+

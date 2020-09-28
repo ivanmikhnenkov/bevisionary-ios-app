@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  BeVisionary
+
+  Created by Ivan Mikhnenkov on 02.06.2018.
+  Copyright © 2018 Ivan Mikhnenkov. All rights reserved.
+*/
+
+// MARK: -BeVisionary Interface Titles
+
+/* BeVisionary Interface Titles */
+"GoalsInterfaceTitle" = "Metas";
+"ImpressionsInterfaceTitle" = "Impresiones";
+"ChronicleInterfaceTitle" = "Crónica";
+
+
+// MARK: - Goals Interface
+
+"Goals; defaultThemeName" = "Impresiones Generales";
+
+/* Goals; AllGoalsTableViewController */
+"AllGoalsTVC; backButtonTitle" = "Cancelar";
+"AllGoalsTVC; navigationItemTitle" = "Su metas";
+"AllGoalsTVC; editButtonTitleStandard" = "Editar";
+"AllGoalsTVC; editButtonTitleWhenEditing" = "Hecho";
+
+/* Goals; GoalsEditingOptionsViewController */
+"GoalEditingOptionsVC; headerLabelText" = "Editar Meta";
+"GoalEditingOptionsVC; nameAndColorEditingButtonTitle" = "Nombre y color";
+"GoalEditingOptionsVC; timePeriodEditingButtonTitle" = "Periodo de tiempo";
+"GoalEditingOptionsVC; cancelButtonTitle" = "Cancelar";
+
+/* Goals; GoalNameAndColorSettingViewController */
+"GoalNameAndColorSettingVC; goalNameTextfieldPlaceholder" = "Introduzca el nombre del meta...";
+"GoalNameAndColorSettingVC; changeGoalColorButtonTitle" = "Tocar para cambiar el color";
+"GoalNameAndColorSettingVC; cancelButtonTitle" = "Cancelar";
+"GoalNameAndColorSettingVC; setButtonTitleGoalCreationCase" = "¡Fijar!";
+"GoalNameAndColorSettingVC; setButtonTitleGoalEditingCase" = "Guardar";
+
+/* Goals; OfferSubscriptionViewController */
+"OfferSubscriptionVC; perMonthText" = "/mes";
+"OfferSubscriptionVC; subscriptionButtonTitleFreeTrial" = "¡prueba de mes gratis!";
+"OfferSubscriptionVC; thenWord" = "Entonces ";
+"OfferSubscriptionVC; subscriprionButtonTitleNoProductFound" = "Producto no encontrado";
+"OfferSubscriptionVC; restoreButtonTitle" = "Restaurar Suscripción";
+"OfferSubscriptionVC; subscriptionTermsText" = "Suscripción le permite utilizar la interfaz Metas y experimenta su influencia en las otras interfaces - funcionalidad que hace que BeVisionary concepción original!\nEl pago se cargará a tu cuenta de iTunes cuando confirmes la compra. El importe se cargará de nuevo en tu cuenta de iTunes cuando tu suscripción se renueve automáticamente al final del período de suscripción actual, a menos que desactives la renovación automática al menos 24 horas antes del final del período actual. Puedes gestionar o desactivar la renovación automática en los Ajustes de tu cuenta ID de Apple en cualquier momento después de la compra.";
+"OfferSubscriptionVC; privacyPolicyTitle" = "Política de Privacidad";
+"OfferSubscriptionVC; termsOfUseTitle" = "Términos de Uso";
+
+// MARK: - IAPHandler
+
+/* IAPHandler; AlertNotifications */
+"IAPHandler; noInternetConnection" = "Por favor, compruebe su conexión a Internet y vuelve a intentarlo";
+"IAPHandler; cannotStartTransactionTitle" = "No se puede iniciar una transacción";
+"IAPHandler; noProductFoundNoInternetMessage" = "La información del producto no se encuentra. Por favor, compruebe su conexión a Internet y vuelve a intentarlo";
+"IAPHandler; noProductFoundWithInternetMessage" = "La información del producto no se encuentra. BeVisionary está tratando de solucionar este problema...";
+"IAPHandler; userCannotMakePurchase" = "No puede hacer compras";
+"IAPHandler; subscriptionWasRestored" = "La suscripción ha sido restaurada con éxito!";
+"IAPHandler; subscriptionWasNotRestoredTitle" = "La suscripción no se restaura";
+"IAPHandler; noValidSubscriptionToRestoreMessage" = "Usted no tiene una suscripción válida";
+"IAPHandler; unknownErrorWhenRestoringSubscriptionMessage" = "Lo sentimos, no se puede restaurar una suscripción. Por favor intente mas tarde";
+
+// MARK: - Chronicle Interface
+
+/* ChronicleViewController */
+"ChronicleVC; commentButtonTitle" = "comentar";
+"ChronicleVC; noPagesSavedNotification" = "¡No tienes páginas guardadas!\n¡Simplemente escriba las impresiones de hoy y revise la crónica mañana!";
+
+/* ChronicleViewController; CommentPageViewController */
+"CommentPageVC; cancelButtonTitle" = "Cancelar";
+"CommentPageVC; saveCommentButtonTitle" = "Guardar";
+

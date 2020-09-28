@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  BeVisionary
+
+  Created by Ivan Mikhnenkov on 02.06.2018.
+  Copyright © 2018 Ivan Mikhnenkov. All rights reserved.
+*/
+
+// MARK: -BeVisionary Interface Titles
+
+/* BeVisionary Interface Titles */
+"GoalsInterfaceTitle" = "Ziele";
+"ImpressionsInterfaceTitle" = "Eindrücke";
+"ChronicleInterfaceTitle" = "Chronik";
+
+
+// MARK: - Goals Interface
+
+"Goals; defaultThemeName" = "Allgemeine Eindrücke";
+
+/* Goals; AllGoalsTableViewController */
+"AllGoalsTVC; backButtonTitle" = "Abbrechen";
+"AllGoalsTVC; navigationItemTitle" = "Deine Ziele";
+"AllGoalsTVC; editButtonTitleStandard" = "Bearbeiten";
+"AllGoalsTVC; editButtonTitleWhenEditing" = "Fertig";
+
+/* Goals; GoalsEditingOptionsViewController */
+"GoalEditingOptionsVC; headerLabelText" = "Ziel bearbeiten";
+"GoalEditingOptionsVC; nameAndColorEditingButtonTitle" = "Name und Farbe";
+"GoalEditingOptionsVC; timePeriodEditingButtonTitle" = "Zeitperiode";
+"GoalEditingOptionsVC; cancelButtonTitle" = "Abbrechen";
+
+/* Goals; GoalNameAndColorSettingViewController */
+"GoalNameAndColorSettingVC; goalNameTextfieldPlaceholder" = "Geben Sie den Zielnamen ein...";
+"GoalNameAndColorSettingVC; changeGoalColorButtonTitle" = "Tippen, um die Farbe zu ändern";
+"GoalNameAndColorSettingVC; cancelButtonTitle" = "Abbrechen";
+"GoalNameAndColorSettingVC; setButtonTitleGoalCreationCase" = "Setzen!";
+"GoalNameAndColorSettingVC; setButtonTitleGoalEditingCase" = "Speichern";
+
+/* Goals; OfferSubscriptionViewController */
+"OfferSubscriptionVC; perMonthText" = "/monat";
+"OfferSubscriptionVC; subscriptionButtonTitleFreeTrial" = "kostenlos Probemonat!";
+"OfferSubscriptionVC; thenWord" = "Dann ";
+"OfferSubscriptionVC; subscriprionButtonTitleNoProductFound" = "Produkt nicht gefunden";
+"OfferSubscriptionVC; restoreButtonTitle" = "Abonnement Wiederherstellen";
+"OfferSubscriptionVC; subscriptionTermsText" = "Abonnement können Sie die Ziele Schnittstelle verwenden und deren Einfluss auf die anderen Schnittstellen erleben - Funktionalität, die das ursprüngliche BeVisionary Konzeption macht!\nDer Betrag wird in deinem iTunes-Konto abgerechnet, nachdem du den Kauf bestätigt hast. Dein iTunes-Konto wird erneut belastet, wenn dein Abonnement am Ende des Abonnementzeitraums automatisch verlängert wird. Wenn du dies nicht möchtest, musst du die automatische Verlängerung mindestens 24 Stunden vor Ablauf des Abonnements deaktivieren. Du kannst die Option zur automatischen Verlängerung jederzeit nach dem Kauf in den Einstellungen deines Apple ID-Kontos verwalten oder deaktivieren.";
+"OfferSubscriptionVC; privacyPolicyTitle" = "Datenschutzrichtlinie";
+"OfferSubscriptionVC; termsOfUseTitle" = "Nutzungsbedingungen";
+
+// MARK: - IAPHandler
+
+/* IAPHandler; AlertNotifications */
+"IAPHandler; noInternetConnection" = "Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut";
+"IAPHandler; cannotStartTransactionTitle" = "Eine Transaktion kann nicht gestartet werden";
+"IAPHandler; noProductFoundNoInternetMessage" = "Produktinformationen wurde nicht gefunden. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut";
+"IAPHandler; noProductFoundWithInternetMessage" = "Produktinformationen wurde nicht gefunden. BeVisionary versucht dieses Problem zu beheben...";
+"IAPHandler; userCannotMakePurchase" = "Sie können keine Einkäufe tätigen";
+"IAPHandler; subscriptionWasRestored" = "Das Abonnement wurde erfolgreich wiederhergestellt!";
+"IAPHandler; subscriptionWasNotRestoredTitle" = "Abonnement nicht wiederhergestellt";
+"IAPHandler; noValidSubscriptionToRestoreMessage" = "Sie haben kein gültiges Abonnement";
+"IAPHandler; unknownErrorWhenRestoringSubscriptionMessage" = "Entschuldigung, kann ein Abonnement nicht wiederherstellen. Bitte versuch es später";
+
+// MARK: - Chronicle Interface
+
+/* ChronicleViewController */
+"ChronicleVC; commentButtonTitle" = "kommentieren";
+"ChronicleVC; noPagesSavedNotification" = "Sie haben keine Seiten gespeichert!\nSchreibe einfach heute Eindrücke und überprüfe die Chronik morgen!";
+
+/* ChronicleViewController; CommentPageViewController */
+"CommentPageVC; cancelButtonTitle" = "Abbrechen";
+"CommentPageVC; saveCommentButtonTitle" = "Speichern";
+

@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "GoalsTVButton"; ObjectID = "0vU-Ju-9BU"; */
+"0vU-Ju-9BU.normalTitle" = "GoalsTVButton";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "6J0-UF-uSl"; */
+"6J0-UF-uSl.title" = "Back";
+
+/* Class = "UITabBarItem"; title = "Impressions"; ObjectID = "Fd6-LI-ggp"; */
+"Fd6-LI-ggp.title" = "Impressions";
+
+/* Class = "UITabBarItem"; title = "Goals"; ObjectID = "JNu-gZ-yAi"; */
+"JNu-gZ-yAi.title" = "Goals";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "OwZ-wX-4VH"; */
+"OwZ-wX-4VH.title" = "Edit";
+
+/* Class = "UITabBarItem"; title = "Chronicle"; ObjectID = "ijt-7d-VWx"; */
+"ijt-7d-VWx.title" = "Chronicle";
+
+/* Class = "UINavigationItem"; title = "Your goals"; ObjectID = "iyg-2P-T2k"; */
+"iyg-2P-T2k.title" = "Your goals";
+
+/* Class = "UILabel"; text = "Goal name"; ObjectID = "rdz-U5-ca5"; */
+"rdz-U5-ca5.text" = "Goal name";

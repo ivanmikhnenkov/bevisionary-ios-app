@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  BeVisionary
+
+  Created by Ivan Mikhnenkov on 02.06.2018.
+  Copyright © 2018 Ivan Mikhnenkov. All rights reserved.
+*/
+
+// MARK: -BeVisionary Interface Titles
+
+/* BeVisionary Interface Titles */
+"GoalsInterfaceTitle" = "目标";
+"ImpressionsInterfaceTitle" = "感触";
+"ChronicleInterfaceTitle" = "日记";
+
+
+// MARK: - Goals Interface
+
+"Goals; defaultThemeName" = "日常感触";
+
+/* Goals; AllGoalsTableViewController */
+"AllGoalsTVC; backButtonTitle" = "取消";
+"AllGoalsTVC; navigationItemTitle" = "你的目标";
+"AllGoalsTVC; editButtonTitleStandard" = "编辑";
+"AllGoalsTVC; editButtonTitleWhenEditing" = "完成";
+
+/* Goals; GoalsEditingOptionsViewController */
+"GoalEditingOptionsVC; headerLabelText" = "编辑目标";
+"GoalEditingOptionsVC; nameAndColorEditingButtonTitle" = "名字和颜色";
+"GoalEditingOptionsVC; timePeriodEditingButtonTitle" = "时段";
+"GoalEditingOptionsVC; cancelButtonTitle" = "取消";
+
+/* Goals; GoalNameAndColorSettingViewController */
+"GoalNameAndColorSettingVC; goalNameTextfieldPlaceholder" = "输入目标名称...";
+"GoalNameAndColorSettingVC; changeGoalColorButtonTitle" = "点按以更换颜色";
+"GoalNameAndColorSettingVC; cancelButtonTitle" = "取消";
+"GoalNameAndColorSettingVC; setButtonTitleGoalCreationCase" = "设立!";
+"GoalNameAndColorSettingVC; setButtonTitleGoalEditingCase" = "储存";
+
+/* Please, translate as "/month" if word itslef is short or there is no appropriate abbreviation */
+"OfferSubscriptionVC; perMonthText" = "/月.";
+"OfferSubscriptionVC; subscriptionButtonTitleFreeTrial" = "免费试用一个月!";
+"OfferSubscriptionVC; subscriprionButtonTitleNoProductFound" = "无法找到产品";
+"OfferSubscriptionVC; restoreButtonTitle" = "恢复订购";
+
+// MARK: - IAPHandler
+
+/* IAPHandler; AlertNotifications */
+"IAPHandler; noInternetConnection" = "请检查您的网络连接再重试";
+"IAPHandler; cannotStartTransactionTitle" = "无法开始交易";
+"IAPHandler; noProductFoundNoInternetMessage" = "无法找到产品信息。请检查您的网络连接再重试";
+"IAPHandler; noProductFoundWithInternetMessage" = "无法找到产品信息。 BeVisionary正在尝试修复...";
+"IAPHandler; userCannotMakePurchase" = "你无法进行购买";
+"IAPHandler; subscriptionWasRestored" = "订购成功恢复!";
+"IAPHandler; subscriptionWasNotRestoredTitle" = "订购尚未恢复";
+"IAPHandler; noValidSubscriptionToRestoreMessage" = "你没有有效的订购";
+"IAPHandler; unknownErrorWhenRestoringSubscriptionMessage" = "很抱歉，无法恢复订购。请稍后重试";
+
+// MARK: - Chronicle Interface
+
+/* ChronicleViewController */
+"ChronicleVC; commentButtonTitle" = "评论";
+"ChronicleVC; noPagesSavedNotification" = "你没有已储存的页面！ \n写下今日感触，明天查看日记！";
+
+/* ChronicleViewController; CommentPageViewController */
+"CommentPageVC; cancelButtonTitle" = "取消";
+"CommentPageVC; saveCommentButtonTitle" = "储存";
+

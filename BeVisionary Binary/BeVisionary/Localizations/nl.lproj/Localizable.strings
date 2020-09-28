@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  BeVisionary
+
+  Created by Ivan Mikhnenkov on 02.06.2018.
+  Copyright © 2018 Ivan Mikhnenkov. All rights reserved.
+*/
+
+// MARK: -BeVisionary Interface Titles
+
+/* BeVisionary Interface Titles */
+"GoalsInterfaceTitle" = "Doelen";
+"ImpressionsInterfaceTitle" = "Indrukken";
+"ChronicleInterfaceTitle" = "Chronicle";
+
+
+// MARK: - Goals Interface
+
+"Goals; defaultThemeName" = "Algemene Indrukken";
+
+/* Goals; AllGoalsTableViewController */
+"AllGoalsTVC; backButtonTitle" = "Annuleren";
+"AllGoalsTVC; navigationItemTitle" = "Je doelen";
+"AllGoalsTVC; editButtonTitleStandard" = "Bewerken";
+"AllGoalsTVC; editButtonTitleWhenEditing" = "Klaar";
+
+/* Goals; GoalsEditingOptionsViewController */
+"GoalEditingOptionsVC; headerLabelText" = "Bewerk Doel";
+"GoalEditingOptionsVC; nameAndColorEditingButtonTitle" = "Naam en kleur";
+"GoalEditingOptionsVC; timePeriodEditingButtonTitle" = "Tijdsperiode";
+"GoalEditingOptionsVC; cancelButtonTitle" = "Annuleren";
+
+/* Goals; GoalNameAndColorSettingViewController */
+"GoalNameAndColorSettingVC; goalNameTextfieldPlaceholder" = "Voer de doelnaam in...";
+"GoalNameAndColorSettingVC; changeGoalColorButtonTitle" = "Tik om de kleur te veranderen";
+"GoalNameAndColorSettingVC; cancelButtonTitle" = "Annuleren";
+"GoalNameAndColorSettingVC; setButtonTitleGoalCreationCase" = "Instellen!";
+"GoalNameAndColorSettingVC; setButtonTitleGoalEditingCase" = "Opslaan";
+
+/* Goals; OfferSubscriptionViewController */
+"OfferSubscriptionVC; perMonthText" = "/maand";
+"OfferSubscriptionVC; subscriptionButtonTitleFreeTrial" = "1 Maand Gratis Versie!";
+"OfferSubscriptionVC; thenWord" = "Dan ";
+"OfferSubscriptionVC; subscriprionButtonTitleNoProductFound" = "Product niet gevonden";
+"OfferSubscriptionVC; restoreButtonTitle" = "Herstel abonnement";
+"OfferSubscriptionVC; subscriptionTermsText" = "Abonnement kunt u de Doelen gebruiken interface en zijn invloed op de andere interfaces ervaren - functionaliteit die opvatting dat BeVisionary oorspronkelijke maakt!\nHet bedrag wordt bij je iTunes Account in rekening gebracht, wanneer je jouw aankoop bevestigd hebt. Het bedrag wordt automatisch bij je iTunes Account in rekening gebracht wanneer je huidige abonnement aan het eind van elke abonnementsperiode verlengd wordt. Wil je niet dit niet, dan moet je automatisch verlengen minimaal 24 uur voor het einde van je abonnement uitzetten. Je kan het automatisch verlengen in je Apple ID Accountinstellingen beheren of uitzetten na een aankoop.";
+"OfferSubscriptionVC; privacyPolicyTitle" = "Privacybeleid";
+"OfferSubscriptionVC; termsOfUseTitle" = "Gebruiksvoorwaarden";
+
+// MARK: - IAPHandler
+
+/* IAPHandler; AlertNotifications */
+"IAPHandler; noInternetConnection" = "Controleer je internetverbinding en probeer opnieuw";
+"IAPHandler; cannotStartTransactionTitle" = "Kan geen transactie starten";
+"IAPHandler; noProductFoundNoInternetMessage" = "Productinformatie niet gevonden, controleer je internetverbinding en probeer opnieuw";
+"IAPHandler; noProductFoundWithInternetMessage" = "Productinformatie niet gevonden. BeVisionary probeert dit probleem te verhelpen...";
+"IAPHandler; userCannotMakePurchase" = "Je kunt geen aankopen doen";
+"IAPHandler; subscriptionWasRestored" = "Abonnement is succesvol hersteld!";
+"IAPHandler; subscriptionWasNotRestoredTitle" = "Abonnement is niet hersteld";
+"IAPHandler; noValidSubscriptionToRestoreMessage" = "Je hebt geen geldig abonnement";
+"IAPHandler; unknownErrorWhenRestoringSubscriptionMessage" = "Sorry, kan het abonnement niet herstellen. Probeer later opnieuw";
+
+// MARK: - Chronicle Interface
+
+/* ChronicleViewController */
+"ChronicleVC; commentButtonTitle" = "reageer op";
+"ChronicleVC; noPagesSavedNotification" = "Je hebt geen opgeslagen pagina's!\nNoteer simpelweg je indrukken van vandaag en check de Chronicle morgen!";
+
+/* ChronicleViewController; CommentPageViewController */
+"CommentPageVC; cancelButtonTitle" = "Annuleren";
+"CommentPageVC; saveCommentButtonTitle" = "Opslaan";
+
